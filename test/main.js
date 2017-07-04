@@ -1,5 +1,3 @@
-function x() {
-  return 2;
+document.getElementById('purple').onclick = (t) => {
+  t.target.style.backgroundColor='#331200';
 }
-
-x();

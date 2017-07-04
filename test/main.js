@@ -1,3 +1,3 @@
-document.getElementById('purple').onclick = (t) => {
-  t.target.style.backgroundColor='#331200';
+document.getElementsByTagName("h1")[0].onclick = (t) => {
+  t.target.style.background = 'blanchedalmond';
 }

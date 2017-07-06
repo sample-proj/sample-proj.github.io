@@ -9,7 +9,7 @@ var color = d3.scaleOrdinal()
     opacity: 0.3,
   }, {
     color: 'white',
-    opacity: 1.0,
+    opacity: 0.7,
   }]);
 
 
